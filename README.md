@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & ML Development**
 
-- 🤝 I’m looking to collaborate on **Machine Learning**
+- 🤝 I'm passionate about collaborating on open-source projects and exploring new technologies
 
 - 📫 How to reach me: **shadabmalik.student@gmail.com**
 
